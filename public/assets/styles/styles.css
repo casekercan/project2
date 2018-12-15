@@ -1,0 +1,83 @@
+body {
+  background: #38ef7d;
+  background: -webkit-linear-gradient(to right, #38ef7d, #11998e);
+  background: linear-gradient(to right, #38ef7d, #11998e);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.banner {
+  text-align: center;
+  background-color: rgba(51, 51, 51, 0.5);
+}
+
+.navbar {
+  padding: 0;
+  background-color: #131313;
+  color: white;
+}
+
+.form-check-label {
+  padding-right: 10px;
+}
+
+#login-btn {
+  float: right;
+}
+
+#logout-btn {
+  float: right;
+  display: none;
+}
+
+.button {
+  margin: 10px;
+  background: linear-gradient(to bottom, #24c485, #181818);
+  border-radius: 7px;
+  border-color: black;
+  cursor: pointer;
+  color: white;
+  text-shadow: 2px 2px 4px #000;
+}
+
+.icon {
+  width: 200px;
+  height: auto;
+  padding: 10px;
+}
+
+.media {
+  padding: 15px;
+}
+
+.media-body {
+  padding: 10px;
+}
+
+.row {
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.formBack {
+  background-color: rgba(51, 51, 51, 0.3);
+  padding: 20px;
+}
+
+.starability-basic {
+  min-height: 0px;
+}
+
+#add {
+  display: inline;
+}
+
+#map {
+  max-width: 100%;
+  height: 100%;
+}
